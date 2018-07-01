@@ -1,7 +1,7 @@
 # react-native-highlight-text
 Component for highlighting text in react-native.
 
-#Usage
+# Usage
 ```
  <HighlightText
                 textToHighlight={'名称：北京仁科互动的简称不是仁科而是仁科互动'}
@@ -18,3 +18,5 @@ Component for highlighting text in react-native.
             />
 ```
 
+preview:
+![image.png](https://upload-images.jianshu.io/upload_images/11076347-d64354627a9f2cb8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
